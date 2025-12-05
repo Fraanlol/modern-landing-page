@@ -72,6 +72,7 @@ export const COLORS = {
       glass: "bg-white/5",
       glassStrong: "bg-white/10",
       overlay: "bg-black/50",
+      hover: "bg-white/10",
     },
     hero: {
       gridOpacity: "opacity-20",
@@ -128,6 +129,7 @@ export const COLORS = {
       overlay: "bg-slate-900/20",
       card: "bg-white/70",
       button: "bg-white/60",
+      hover: "bg-white/80",
     },
     accent: {
       shadow: "shadow-slate-200/50",
