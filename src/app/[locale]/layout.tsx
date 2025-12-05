@@ -20,6 +20,8 @@ const interTight = Inter_Tight({
   display: "swap",
 });
 
+export const runtime = "edge";
+
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
 }
