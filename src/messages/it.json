@@ -1,0 +1,318 @@
+{
+  "navbar": {
+    "brand": "React Modern",
+    "home": "Home",
+    "about": "Chi siamo",
+    "language": "Lingua"
+  },
+
+  "aria": {
+    "menu": {
+      "open": "Apri menu",
+      "close": "Chiudi menu"
+    },
+    "theme": {
+      "switchToLight": "Passa alla modalità chiara",
+      "switchToDark": "Passa alla modalità scura"
+    },
+    "language": {
+      "select": "Seleziona lingua",
+      "current": "Lingua corrente"
+    }
+  },
+
+  "brand": {
+    "name": "React Modern"
+  },
+
+  "cta": {
+    "start": "Inizia Ora"
+  },
+
+  "language": {
+    "title": "Lingua"
+  },
+
+  "nav": {
+    "index": "Home",
+    "services": "Servizi",
+    "projects": "Progetti",
+    "contact": "Contatto"
+  },
+
+  "home": {
+    "title": "Benvenuti alla Demo!",
+    "description": "Questo è un sito Next.js multilingue che utilizza next-intl.",
+    "learn": "Scopri di più",
+    "contact": "Contattaci"
+  },
+
+  "contact": {
+    "title": "Mettiti in Contatto",
+    "description": "Hai un progetto in mente? Ci piacerebbe sentirti. Inviaci un messaggio e ti risponderemo il prima possibile.",
+    "fields": {
+      "name": "Nome Completo",
+      "email": "Indirizzo Email",
+      "subject": "Oggetto",
+      "message": "Messaggio"
+    },
+    "placeholders": {
+      "name": "Mario Rossi",
+      "email": "mario@esempio.it",
+      "subject": "Richiesta progetto",
+      "message": "Raccontaci del tuo progetto..."
+    },
+    "errors": {
+      "name": "Il nome deve contenere almeno 2 caratteri",
+      "email": "Inserisci un indirizzo email valido",
+      "subject": "L'oggetto deve contenere almeno 3 caratteri",
+      "message": "Il messaggio deve contenere almeno 10 caratteri"
+    },
+    "submit": "Invia Messaggio",
+    "submitting": "Invio in corso...",
+    "success": "Grazie per il tuo messaggio! Ti risponderemo presto.",
+    "error": "Si è verificato un errore. Riprova più tardi."
+  },
+
+  "hero": {
+    "badge": "Innovazione Digitale",
+    "title": {
+      "line1": "Trasforma la tua visione",
+      "line2": "in realtà digitale"
+    },
+    "subtitle": "Progettiamo esperienze eccezionali che connettono i marchi alle persone e guidano la crescita attraverso l'innovazione.",
+    "cta": {
+      "primary": "Inizia ora",
+      "secondary": "Vedi progetti"
+    },
+    "stats": {
+      "projects": "Progetti",
+      "clients": "Clienti",
+      "satisfaction": "Soddisfazione"
+    }
+  },
+
+  "about": {
+    "title": "Chi siamo",
+    "description": "Questa è la pagina Chi siamo. Sostituisci con contenuti localizzati se necessario."
+  },
+
+  "contact": {
+    "title": "Contatto",
+    "description": "Segnaposto pagina contatti — inserisci qui contenuti localizzati."
+  },
+
+  "process": {
+    "header": {
+      "title": {
+        "line1": "Come",
+        "line2": "lo facciamo"
+      },
+      "lead": "Un processo trasparente. Scorri per vedere come trasformiamo la tua idea."
+    },
+    "steps": [
+      {
+        "title": "Audit & Discovery",
+        "description": "Comprendiamo a fondo la tua azienda, i tuoi obiettivi e le tue sfide.",
+        "points": [
+          "Analisi approfondita",
+          "Mappatura delle opportunità",
+          "Validazione dell'idea"
+        ],
+        "time": "1-2 giorni"
+      },
+      {
+        "title": "Strategy & Design",
+        "description": "Progettiamo la soluzione esatta su misura per il tuo caso.",
+        "points": [
+          "Prototipazione",
+          "Validazione utenti",
+          "Roadmap dettagliata"
+        ],
+        "time": "3-5 giorni"
+      },
+      {
+        "title": "Build & Launch",
+        "description": "Eseguiamo, testiamo e rilasciamo con eccellenza.",
+        "points": [
+          "Sviluppo agile",
+          "Testing continuo",
+          "Deploy & ottimizzazione"
+        ],
+        "time": "1-3 settimane"
+      }
+    ],
+    "cta": {
+      "label": "Prossimo passo",
+      "title": { "line1": "Trasformiamo", "line2": "la tua idea" },
+      "description": "Prenota una chiamata e iniziamo il viaggio insieme.",
+      "button": "PRENOTA UNA CHIAMATA"
+    }
+  },
+
+  "value": {
+    "badge": "Il nostro valore",
+    "headline": "Perché sceglierci",
+    "subheadline": "Non offriamo solo soluzioni, offriamo risultati misurabili che trasformano il tuo business.",
+    "propositions": [
+      {
+        "title": "Automatizziamo\nciò che è noioso",
+        "description": "Mentre altri sprecano ore in attività ripetitive, tu stai già scalando.",
+        "visual": "80%",
+        "visualLabel": "meno tempo"
+      },
+      {
+        "title": "Risultati\nmisurabili",
+        "description": "Niente promesse vuote. Ogni metrica e decisione supportata dai dati.",
+        "visual": "3.2x",
+        "visualLabel": "ROI medio"
+      },
+      {
+        "title": "Cresci senza\nlimiti",
+        "description": "Da 10 clienti a 10.000. La tua infrastruttura scala automaticamente con te.",
+        "visual": "∞",
+        "visualLabel": "scalabilità"
+      }
+    ],
+    "differentiator": {
+      "header": "Ciò che ci distingue",
+      "items": [
+        "Implementazione in 48 ore, non mesi",
+        "Supporto dedicato 24/7 da esperti reali",
+        "Garanzia ROI 30 giorni o rimborso"
+      ]
+    },
+    "cta": {
+      "title": "Voglio parlare con un esperto",
+      "button": "Prenota una chiamata"
+    }
+  },
+
+  "social": {
+    "header": {
+      "trust": "CI CONOSCONO",
+      "title": {
+        "line1": "Leader del settore scelgono",
+        "line2": "i nostri servizi"
+      },
+      "lead": "Dalle startup alle Fortune 500, migliaia di aziende ottimizzano i loro processi con noi"
+    },
+    "stats": {
+      "clients": "Clienti attivi",
+      "projects": "Progetti completati",
+      "satisfaction": "Soddisfazione"
+    },
+    "logos": { "title": "Aziende che si affidano a noi" },
+    "cta": {
+      "title": "Pronto a unirti a loro?",
+      "description": "Inizia a ottimizzare il tuo flusso di lavoro oggi",
+      "button": "Inizia ora"
+    }
+  },
+
+  "featured": {
+    "header": {
+      "line1": "Casi che",
+      "line2": "hanno parlato da soli",
+      "lead": "Risultati misurabili. Niente marketing. Solo numeri reali."
+    },
+    "projects": [
+      {
+        "title": "E-commerce",
+        "desc": "Conversioni aumentate con l'automazione del checkout.",
+        "beforeAfter": "$42K → $182K"
+      },
+      {
+        "title": "Piattaforma SaaS",
+        "desc": "Retention mensile migliorata con dashboard intelligente.",
+        "beforeAfter": "32% → 2% churn"
+      },
+      {
+        "title": "AI Workflow",
+        "desc": "Elaborazione 180x più veloce con integrazione AI.",
+        "beforeAfter": "12h → 4min"
+      }
+    ],
+    "cta": { "view": "Vedi il progetto completo", "start": "Inizia oggi" }
+  },
+
+  "footer": {
+    "columns": {
+      "product": {
+        "title": "Prodotto",
+        "links": ["Funzionalità", "Prezzi", "Sicurezza", "Roadmap"]
+      },
+      "company": {
+        "title": "Azienda",
+        "links": ["Chi siamo", "Blog", "Carriere", "Contatti"]
+      },
+      "resources": {
+        "title": "Risorse",
+        "links": ["Documentazione", "Guide", "Template", "Community"]
+      },
+      "legal": {
+        "title": "Legale",
+        "links": ["Privacy", "Termini", "Cookie", "GDPR"]
+      }
+    },
+    "social": {
+      "title": "Seguici",
+      "twitter": "Twitter",
+      "linkedin": "LinkedIn",
+      "github": "GitHub",
+      "email": "Email"
+    },
+    "contact": {
+      "title": "Contatto",
+      "email": "hello@example.com",
+      "phone": "+1 (555) 123-4567",
+      "location": "Buenos Aires, Argentina"
+    },
+    "brand": {
+      "name": "REVO",
+      "tagline": "Trasformiamo idee in realtà dal 2024."
+    },
+    "cta": {
+      "title": { "line1": "Pronto a", "line2": "rivoluzionare?" },
+      "lead": "Unisciti a centinaia di aziende che già crescono con noi.",
+      "placeholder": "tu@email.com",
+      "button": "Invia"
+    },
+    "copy": "© 2024 REVO. Tutti i diritti riservati.",
+    "links": {
+      "privacy": "Privacy",
+      "terms": "Termini",
+      "cookies": "Impostazioni cookie"
+    }
+  },
+
+  "aria": {
+    "menu": {
+      "open": "Apri menu",
+      "close": "Chiudi menu"
+    },
+    "theme": {
+      "dark": "Tema scuro",
+      "light": "Tema chiaro"
+    },
+    "language": {
+      "select": "Seleziona lingua",
+      "current": "Lingua attuale: {lang}"
+    },
+    "nav": {
+      "main": "Navigazione principale"
+    },
+    "cta": {
+      "explore": "Esplora altre funzionalità"
+    },
+    "form": {
+      "nameLabel": "Il tuo nome",
+      "emailLabel": "Il tuo indirizzo email",
+      "messageLabel": "Il tuo messaggio",
+      "required": "Questo campo è obbligatorio",
+      "invalidEmail": "Inserisci un indirizzo email valido",
+      "submitError": "Si è verificato un errore durante l'invio",
+      "submitSuccess": "Modulo inviato con successo"
+    }
+  }
+}
