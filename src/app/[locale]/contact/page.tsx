@@ -14,8 +14,6 @@ import PrimaryButton from "@/components/ui/PrimaryButton";
 import Input from "@/components/ui/Input";
 import Textarea from "@/components/ui/Textarea";
 
-export const runtime = "edge";
-
 interface FormData {
   name: string;
   email: string;

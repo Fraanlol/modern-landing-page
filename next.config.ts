@@ -12,7 +12,6 @@ const nextConfig: NextConfig = {
   turbopack: {
     root: projectRoot,
   },
-  output: "standalone",
 };
 
 const withNextIntl = createNextIntlPlugin();

@@ -8,8 +8,6 @@ import ProcessSection from "@/components/ProcessSection";
 import FooterSection from "@/components/Footer";
 import { useTranslations } from "next-intl";
 
-export const runtime = "edge";
-
 export default function Home() {
   return (
     <main>
